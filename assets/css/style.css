@@ -1,0 +1,28 @@
+h1 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: 'DM Serif Display', serif;
+}
+
+#mapid { 
+    height: 280px;
+    width: 280px; 
+}
+
+body {
+    font-family: 'B612 Mono', monospace;
+    background-color: #99CCCC;
+}
+
+.jumbotron {
+    /* background-color: #0191C8; */
+    background-image: url('../images/grass.png');
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
